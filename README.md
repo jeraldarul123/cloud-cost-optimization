@@ -105,6 +105,13 @@ def lambda_handler(event, context):
 3. **Trigger the Lambda Function**:
    - Execute the Lambda function.
    - Confirm that the snapshot is deleted.
+![Screenshot 2025-01-30 093612](https://github.com/user-attachments/assets/f18968c1-328b-4136-9f85-cbffd66a7d77)
+![Screenshot 2025-01-30 095812](https://github.com/user-attachments/assets/2b715e60-761a-4f38-83f3-2e9308a83b06)
+![Screenshot 2025-01-30 094128](https://github.com/user-attachments/assets/ef19e961-9299-4a62-b810-2d371efa5ebc)
+![Screenshot 2025-01-30 101217](https://github.com/user-attachments/assets/97094982-b40d-43a1-842e-ab164e3bbe3f)
+![Screenshot 2025-01-30 101006](https://github.com/user-attachments/assets/02dd9da2-c576-480d-be94-5363f07ad9e7)
+![Screenshot 2025-01-30 100918](https://github.com/user-attachments/assets/e13cd68b-74af-464a-9c80-3f0b48083fac)
+![Screenshot 2025-01-30 100634](https://github.com/user-attachments/assets/10126e43-0d4f-443a-a828-7945aba2d46e)
 
 ## Results
 - The Lambda function successfully identified and deleted unused EBS snapshots created during testing.
